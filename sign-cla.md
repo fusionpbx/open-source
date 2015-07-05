@@ -45,7 +45,6 @@ Put the following in the file:
 [date]
 
 I hereby agree to the terms of the Contributors License
-Agreement git revision [insert git revision # of the cla-2.0.md file]
 
 I furthermore declare that I am authorized and able to make this
 agreement and sign this declaration.
