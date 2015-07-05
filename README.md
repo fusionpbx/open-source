@@ -9,17 +9,10 @@ contribute to them, and to sign up as a contributor.
 Table Of Contents
 -----------------
 
-On this page:
-
-* [Note to External Contributors](#note-to-external-contributors)
-* [List of Projects](#list-of-projects)
-
-Other pages:
-
-* [Sign the CLA](https://github.com/Fusionpbx/opensource/blob/master/sign-cla.md)
-* [CLA Rationale](https://github.com/Fusionpbx/opensource/blob/master/cla-rationale.md)
-* [Contributors](https://github.com/Fusionpbx/opensource/blob/master/contributors)
-* [Contributor License Agreement 2.0](https://github.com/Fusionpbx/opensource/blob/master/cla-2.0.md)
+* [Sign the CLA](https://github.com/Fusionpbx/opensource/blob/master/sign-cla.md) - Step 1 [Required]
+* [CLA Rationale](https://github.com/Fusionpbx/opensource/blob/master/cla-rationale.md) - [Optional if Curious]
+* [Contributors](https://github.com/Fusionpbx/opensource/blob/master/contributors) - [List of Contributors]
+* [Contributor License Agreement 2.0](https://github.com/Fusionpbx/opensource/blob/master/cla-2.0.md) - [The Actual CLA]
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
