@@ -45,10 +45,12 @@ If you don't yet know how to file a pull request, here is the simplest way
 9. Put the text below in the file DO NOT HIT ENTER
 10. In the Commit New File text field Enter githubusername signed cla DO NOT HIT ENTER
 11. Leave description Blank
-12. Select the dialogue box named: "Create a new branch for this commit and start a pull request"
-13. When the new textfield pops up replace the word patch with signed-cla so it reads yourgithubusername-signed-cla-1
-14. Click The Green Propose New File Button
-15. Click The Green Create Pull Request Button
+12. Select the radio button labeled: "Commit directly to the master branch"
+13. Click The Green "Commit New File" Button
+14. Just over the file browser click "Pull Request"
+15. Click The Green "Create New Pull Request" Button
+16. A description will drop down, leave it the way it is and scroll down
+17. Click The Green "Create New Pull Request" Button
 
 Dont forget to send your email as detailed further below to open-source@fusionpbx.com!
 
