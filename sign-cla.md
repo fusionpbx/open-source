@@ -38,19 +38,17 @@ If you don't yet know how to file a pull request, here is the simplest way
 2. In the top right hand corner click the "Fork" button.
 3. If you have multiple accounts or are on a team it will ask you which account to fork to choose the one with your github username. If you only have one account it will just fork it for you and take you there. You will be redirected to your private copy of the opensource repository.
 4. In the file browser up top click on the contributors folder to go into it
-5. Look on top of the file browser at the breadcrumb it should say branch master open-source/contributors/+
-6. Click the + sign 
-7. Name the file in the top dialogue box yourgithubusername.md DONT HIT ENTER. Example: my github is richbreton my file is called richbreton.md
-8. Click into the "Edit New File" textarea
-9. Put the text below in the file DO NOT HIT ENTER
-10. In the "Commit New File" text field Enter githubusername signed cla DO NOT HIT ENTER
-11. Leave the "Description" voicemail Blank
-12. Select the radio button labeled: "Commit directly to the master branch"
-13. Click The Green "Commit New File" Button
-14. Just over the file browser click "Pull Request"
+5. Look on top of the file browser and click the 'Create new file' button
+6. Name the file in the top dialogue box yourgithubusername.md DONT HIT ENTER. Example: my github is richbreton my file is called richbreton.md
+7. Put the text below in the file DO NOT HIT ENTER
+8. In the "Commit New File" text field Enter githubusername signed cla DO NOT HIT ENTER
+9. Leave the "Description" voicemail Blank
+10. Select the radio button labeled: "Commit directly to the master branch"
+11. Click The Green "Commit New File" Button
+12. Just over the file browser click "Pull Request"
+13. Click The Green "Create New Pull Request" Button
+14. A description will drop down, leave it the way it is and scroll down
 15. Click The Green "Create New Pull Request" Button
-16. A description will drop down, leave it the way it is and scroll down
-17. Click The Green "Create New Pull Request" Button
 
 Dont forget to send your email as detailed further below to open-source@fusionpbx.com!
 
