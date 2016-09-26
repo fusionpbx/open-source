@@ -1,4 +1,4 @@
-26th September 2016
+2016-09-26
 
 I hereby agree to the terms of the Contributors License
 
