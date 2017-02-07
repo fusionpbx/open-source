@@ -1,4 +1,4 @@
-2/7/2017
+2017-02-07
 
 I hereby agree to the terms of the Contributors License
 
