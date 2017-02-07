@@ -6,4 +6,4 @@ I further more declare that i hereby authorize able to make this agreement
 and sign this declaration
 
 Signed Richard Neese
-https;//github.com/kb3vgw
+https://github.com/kb3vgw
