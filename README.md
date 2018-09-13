@@ -13,6 +13,7 @@ Table Of Contents
 * [CLA Rationale](https://github.com/Fusionpbx/opensource/blob/master/cla-rationale.md) - [Optional if Curious]
 * [Contributors](https://github.com/Fusionpbx/opensource/blob/master/contributors) - [List of Contributors]
 * [Contributor License Agreement 2.0](https://github.com/Fusionpbx/opensource/blob/master/cla-2.0.md) - [The Actual CLA]
+* Watch the "FusionPBX Pull Requests with Github" Youtube Video  https://youtu.be/SPUe7S4Z6ms
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
