@@ -1,4 +1,4 @@
-1/25/2019
+2019-01-25
 
 I hereby agree to the terms of the Contributors License
 
