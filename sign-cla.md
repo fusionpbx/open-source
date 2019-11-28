@@ -42,7 +42,7 @@ If you don't yet know how to file a pull request, here is the simplest way
 6. Name the file in the top dialogue box yourgithubusername.md DONT HIT ENTER. Example: my github is richbreton my file is called richbreton.md
 7. Put the text below in the file DO NOT HIT ENTER
 8. In the "Commit New File" text field Enter githubusername signed cla DO NOT HIT ENTER
-9. Leave the "Description" voicemail Blank
+9. Leave the "Description" text field Blank
 10. Select the radio button labeled: "Commit directly to the master branch"
 11. Click The Green "Commit New File" Button
 12. Just over the file browser click "Pull Request"
