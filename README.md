@@ -20,9 +20,7 @@ Table Of Contents
 Note to External Contributors
 -----------------------------
 
-Hello, External Person!
-
-We at FusionPBX are eager to work with you. 
+We at FusionPBX are eager to work with you as a contributor. The following explains how to become a contributor. You will need to sign the contributor agreement as described below and send us a useful pull request. We accept pull requests from new contributors once we see the beneficial pull request and a signed contributor agreement. Each pull request is reviewed to make sure there is a signed contributor agreement.
 
 In particular, in order for us to accept any patches from you, you will have to
 electronically sign a statement that indicates two things:
