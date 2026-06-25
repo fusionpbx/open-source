@@ -1,4 +1,4 @@
-6/25/2026
+2026-06-25
 
 I hereby agree to the terms of the Contributors License.
 
